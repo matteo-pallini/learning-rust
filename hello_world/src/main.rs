@@ -1,3 +1,5 @@
+mod hashset_intersection;
+
 fn main() {
-    println!("Hello, world!");
+    hashset_intersection::run()
 }
